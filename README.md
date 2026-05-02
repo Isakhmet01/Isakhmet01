@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Musakhan Isakhmet 👋</h1>
+<h1 align="center">Hi, I'm Isakhmet 👋</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6E8FA3,100:A8D5B1&text=Musakhan%20Isakhmet&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
