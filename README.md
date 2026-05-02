@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I am a 2nd-year IT student at **Kazakh-British Technical University (KBTU)**, focused on backend development, software engineering, artificial intelligence, and data science.
+I am a 2nd-year IT student at **Kazakh-British Technical University (KBTU)** with a strong interest in backend development, AI, and Data Science.
 
-I enjoy building practical applications, working with databases, creating APIs, and understanding how real software systems work behind the scenes.
+I enjoy building practical applications, working with databases, designing APIs, and understanding how real software systems work.
 
-My main interest is **backend development** because it requires strong logic, clean architecture, problem-solving, and discipline. I know this path is not easy, but I believe that difficult paths build strong developers.
+Currently, I am improving my skills in **Django**, **Angular**, **SQL**, **Artificial Intelligence**, and **Data Science**.
 
-Currently, I am improving my skills in **AI**, **Data Science**, **backend systems**, and **modern web development**. My goal is to become a highly skilled IT specialist and build technologies that create real value.
+My goal is to become a highly skilled IT specialist who builds useful and reliable technologies.
 
 ---
 
@@ -110,7 +110,6 @@ Every day is a chance to become better.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Isakhmet01&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isakhmet01&layout=compact&theme=tokyonight&hide_border=true" />
