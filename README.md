@@ -1,11 +1,9 @@
+<h1 align="center">Hi, I'm Musakhan Isakhmet 👋</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6E8FA3,100:A8D5B1&text=Musakhan%20Isakhmet&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Musakhan Isakhmet 👋</h1>
 <h3 align="center">Backend Developer | KBTU IT Student | AI & Data Science Enthusiast</h3>
-
-### Backend Developer | KBTU IT Student | AI & Data Science Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;KBTU+IT+Student;Learning+AI+and+Data+Science;Building+real-world+projects;Improving+every+day" alt="Typing SVG" />
 
