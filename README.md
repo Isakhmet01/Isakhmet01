@@ -2,7 +2,7 @@
 
 # Hi, I'm Musakhan Isakhmet 👋
 
-### Backend Developer | KBTU IT Student | Aspiring AI & Data Science Specialist
+### Backend Developer | KBTU IT Student | AI & Data Science Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;KBTU+IT+Student;Learning+AI+and+Data+Science;Building+real-world+projects;Improving+every+day" alt="Typing SVG" />
 
@@ -85,40 +85,6 @@ Currently, I am improving my skills in **AI**, **Data Science**, **backend syste
 
 ---
 
-## 💼 Featured Projects
-
-### 📌 Study Planner
-
-A full-stack web application for managing subjects, tasks, deadlines, and personal productivity.
-
-**Tech Stack:** Angular, TypeScript, Django, Django REST Framework, SQL, Postman
-
----
-
-### 📌 UniSpace
-
-A Java-based university management system built with object-oriented programming principles.
-
-**Tech Stack:** Java, OOP, UML, Serialization, Design Patterns
-
----
-
-### 📌 Database Projects
-
-Projects focused on database design, SQL queries, PostgreSQL, and working with structured data.
-
-**Tech Stack:** SQL, PostgreSQL, DataGrip
-
----
-
-### 📌 Data Science Learning Projects
-
-Projects focused on data analysis, visualization, and machine learning fundamentals.
-
-**Tech Stack:** Python, SQL, PostgreSQL, Power BI
-
----
-
 ## 📚 Currently Learning
 
 <p>
@@ -134,23 +100,47 @@ I am actively learning how to design backend systems, build REST APIs, work with
 
 ## 🧠 Developer Mindset
 
-```txt
-Difficult paths build strong developers.
-Every bug teaches something.
-Every project gives experience.
+Difficult paths build strong developers.  
+Every bug teaches something.  
+Every project gives experience.  
 Every day is a chance to become better.
 
 ---
 
-📊 GitHub Analytics
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Isakhmet01&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isakhmet01&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isakhmet01&theme=tokyonight&hide_border=true" /> </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Isakhmet01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isakhmet01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isakhmet01&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isakhmet01&theme=tokyo-night&hide_border=true" /> </div>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isakhmet01&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
-Thanks for visiting my profile 🚀
-<img src="https://komarev.com/ghpvc/?username=Isakhmet01&style=for-the-badge&color=blueviolet" /> </div> ```
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Isakhmet01&style=for-the-badge&color=blueviolet" />
+
+</div>
