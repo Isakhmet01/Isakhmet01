@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Isakhmet 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7AA5B3,100:B8D8B8&text=Musakhan%20Isakhmet&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,100:7C3AED&text=Musakhan%20Isakhmet&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
 ### Backend Developer | KBTU IT Student | Aspiring AI & Data Science Specialist
